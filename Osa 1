@@ -1,0 +1,17 @@
+//2. Ohjelma ja lähdekoodi
+//Ohjelma, lähdekoodi, lauseet (statement), lauseke (expression)
+//System.out.println("Hei maailma"); System.out.printli  on lause, "Hei maailma" on lauseke
+
+//2.1 Ohjelman runko
+public class Esimerkki{
+  public static void main(String[] args) {
+    (Ohjelma)
+  }
+}
+
+//2.2 Ohjelman osia
+
+//2.2.1 Kommentut
+// Kommentit, Useat rivit /* ja */
+
+//2.2.2 Tulostaminen
